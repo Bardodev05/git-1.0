@@ -1,0 +1,1 @@
+github nos permite tener repositorios remotos que se pueden accerder a ellos en cualquier lugar,permite tarabajar con otros dev 
