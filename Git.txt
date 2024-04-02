@@ -1,0 +1,1 @@
+es un sistema de gestion de versiones de un mismo archivo que permite volver a versiones anteriores ,crear repositorios 
